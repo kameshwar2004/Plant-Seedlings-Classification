@@ -15,8 +15,8 @@ The dataset can be download from Olympus.
 
 The data file names are:
 
-images.npy
-Labels.csv
+* images.npy
+* Labels.csv
 
 Due to the large volume of data, the images were converted to the images.npy file and the labels are also put into Labels.csv, so that you can work on the data/project seamlessly without having to worry about the high data volume.
 
